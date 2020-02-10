@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Courier+Prime:400,400i,700|Modak|Tajawal:400,700|Zilla+Slab:400,400i,600,700&display=swap');
+
+body {
+  background-color: #cccc00;
+  color: white;
+  font-family: 'Courier Prime', monospace;
+}
+
+h1 {
+  font-family:  'Tajawal', sans-serif;
+  text-transform: uppercase;
+}
+
+h2{
+  font-family: 'Zilla Slab', serif;
+}
+
+h3{
+  font-family: 'Courier Prime', monospace;
+}
+
+.center{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.teen_uni {
+  color: #cc9900
+}
+
+#growingup {
+  background-color: #4d4d00;
+  border: 20 px;
+  padding: 5 px;
+  margin: 10 px auto;
+}
